@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Planty/ViewController.swift"
+            timestampString = "544647557.052581"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "365"
+            endingLineNumber = "365"
+            landmarkName = "plantsOveriewGestureAction(recognizer:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Planty.ViewController.(plantsOveriewGestureAction in _F5750B36A43D59144143BF2D76D25E47)(recognizer: __ObjC.UIPanGestureRecognizer) -&gt; ()"
+                  moduleName = "Planty"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gunapandian/Documents/Planty/Planty/ViewController.swift"
+                  timestampString = "544646680.7584471"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "361"
+                  endingLineNumber = "361"
+                  offsetFromSymbolStart = "7129">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Planty.ViewController.(plantsOveriewGestureAction in _F5750B36A43D59144143BF2D76D25E47)(recognizer: __ObjC.UIPanGestureRecognizer) -&gt; ()"
+                  moduleName = "Planty"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gunapandian/Documents/Planty/Planty/ViewController.swift"
+                  timestampString = "544646680.7696069"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "361"
+                  endingLineNumber = "361"
+                  offsetFromSymbolStart = "7430">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Planty/ViewController.swift"
+            timestampString = "544647557.053126"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "284"
+            endingLineNumber = "284"
+            landmarkName = "animatePlantsOverviewLayout(performState:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Planty.ViewController.(animatePlantsOverviewLayout in _F5750B36A43D59144143BF2D76D25E47)(performState: Planty.SliderState) -&gt; ()"
+                  moduleName = "Planty"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gunapandian/Documents/Planty/Planty/ViewController.swift"
+                  timestampString = "544646680.791135"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "280"
+                  endingLineNumber = "280"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in Planty.ViewController.(animatePlantsOverviewLayout in _F5750B36A43D59144143BF2D76D25E47)(performState: Planty.SliderState) -&gt; ()"
+                  moduleName = "Planty"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gunapandian/Documents/Planty/Planty/ViewController.swift"
+                  timestampString = "544646680.796042"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "281"
+                  endingLineNumber = "281"
+                  offsetFromSymbolStart = "33">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Planty/ViewController.swift"
+            timestampString = "544647557.053257"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "318"
+            endingLineNumber = "318"
+            landmarkName = "plantsOveriewGestureAction(recognizer:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Planty/ViewController.swift"
+            timestampString = "544647557.053364"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "308"
+            endingLineNumber = "308"
+            landmarkName = "animatePlantsOverviewLayout(performState:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
